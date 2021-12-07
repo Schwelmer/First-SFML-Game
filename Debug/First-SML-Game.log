@@ -1,0 +1,53 @@
+﻿  First-SML-Game.cpp
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(28,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(28,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82,11): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82,11): error C3484: syntax error: expected '->' before the return type
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82,12): error C3613: missing return type after '->' ('int' assumed)
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82,12): error C2146: syntax error: missing ';' before identifier 'clear'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(84,11): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(84,11): error C3484: syntax error: expected '->' before the return type
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(84,12): error C3613: missing return type after '->' ('int' assumed)
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(84,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(84,5): error C2086: 'int window': redefinition
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82): message : see declaration of 'window'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(84,12): error C2146: syntax error: missing ';' before identifier 'draw'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(85,11): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(85,11): error C3484: syntax error: expected '->' before the return type
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(85,12): error C3613: missing return type after '->' ('int' assumed)
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(85,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(85,5): error C2086: 'int window': redefinition
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82): message : see declaration of 'window'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(85,12): error C2146: syntax error: missing ';' before identifier 'draw'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(86,11): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(86,11): error C3484: syntax error: expected '->' before the return type
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(86,12): error C3613: missing return type after '->' ('int' assumed)
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(86,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(86,5): error C2086: 'int window': redefinition
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82): message : see declaration of 'window'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(86,12): error C2146: syntax error: missing ';' before identifier 'draw'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(87,11): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(87,11): error C3484: syntax error: expected '->' before the return type
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(87,12): error C3613: missing return type after '->' ('int' assumed)
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(87,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(87,5): error C2086: 'int window': redefinition
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82): message : see declaration of 'window'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(87,12): error C2146: syntax error: missing ';' before identifier 'draw'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(89,11): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(89,11): error C3484: syntax error: expected '->' before the return type
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(89,12): error C3613: missing return type after '->' ('int' assumed)
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(89,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(89,5): error C2086: 'int window': redefinition
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(82): message : see declaration of 'window'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(89,12): error C2146: syntax error: missing ';' before identifier 'display'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(90,1): error C2059: syntax error: '}'
+D:\Code\workspace\First-SML-Game\First-SML-Game.cpp(90,1): error C2143: syntax error: missing ';' before '}'
